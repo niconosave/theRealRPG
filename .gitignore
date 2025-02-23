@@ -1,0 +1,14 @@
+# Ignore the entire js folder but not js/plugins
+/js/*
+!/js/plugins/
+
+# Ignore all files in audio and img folders
+*.m4a
+!*_git.m4a
+*.ogg
+!*_git.ogg
+*.png
+!*_git.png
+*.kra
+*.kra~
+*.png~
